@@ -3,6 +3,7 @@ const TEST_SUITE = [
   //{ "name": "VK", "asns": ["28709", "47541", "47542", "47764", "60863", "62243", "199295", "207581"] },
   //{ "name": "EdgeCenter", "asns": ["201589", "207059", "210756"] },
   { "name": "VDSINA-AS", "asns": ["48282"] },
+  { "name": "TIMEWEB.CL", "asns": ["51789", "9123"] },
 ];
 
 let TIMEOUT_MS = 5000;
